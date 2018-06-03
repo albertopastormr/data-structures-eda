@@ -1,0 +1,45 @@
+addSong HumanTouch BruceSpringsteen 392
+addSong BornToRun BruceSpringsteen 270
+addToPlaylist BornToRun
+addToPlaylist HumanTouch
+play
+totalTime
+addSong LuckyTown BruceSpringsteen 207
+addToPlaylist LuckyTown
+play
+play
+deleteSong HumanTouch
+recent 2
+FIN
+play
+current
+FIN
+addSong HumanTouch BruceSpringsteen 392
+addSong BornToRun BruceSpringsteen 270
+addSong HumanTouch BruceSpringsteen 392
+addSong BornTo BruceSpringsteen 270
+addSong BornTo1 BruceSpringsteen 270
+addSong BornTo2 BruceSpringsteen 270
+addSong BornTo3 BruceSpringsteen 270
+recent 605
+addToPlaylist BornToRun
+addToPlaylist HumanTouch
+addToPlaylist BornTo
+play
+play
+play
+addToPlaylist BornToRun
+addToPlaylist BornToRun
+play
+recent 124
+deleteSong BornToRun
+deleteSong LuckyTown
+deleteSong HumanTouch
+deleteSong BornTo
+deleteSong BornTo1
+deleteSong BornTo2
+deleteSong BornTo3
+play
+addToPlaylist BornTo3
+recent 123
+FIN

@@ -1,0 +1,48 @@
+5
+nuevoLibro 20 Heidi
+nuevoLibro 30 Caperucita roja
+comprar Heidi
+numEjemplares Caperucita roja
+top10
+8
+nuevoLibro 1 La vuelta al mundo en 80 dias
+comprar La vuelta al mundo en 80 dias
+estaLibro La vuelta al mundo en 80 dias
+nuevoLibro 5 Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+top10
+comprar La isla misteriosa
+32
+nuevoLibro 2 Viaje al centro de la tierra
+nuevoLibro 5 Viaje al centro de la tierra1
+nuevoLibro 5 Viaje al centro de la tierra2
+nuevoLibro 5 Viaje al centro de la tierra3
+nuevoLibro 5 Viaje al centro de la tierra4
+nuevoLibro 5 Viaje al centro de la tierra5
+nuevoLibro 5 Viaje al centro de la tierra6
+nuevoLibro 5 Viaje al centro de la tierra7
+nuevoLibro 5 Viaje al centro de la tierra8
+nuevoLibro 5 Viaje al centro de la tierra9
+nuevoLibro 5 Viaje al centro de la tierra10
+nuevoLibro 5 Viaje al centro de la tierra11
+numEjemplares Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+comprar Viaje al centro de la tierra
+comprar Viaje al centro de la tierra1
+comprar Viaje al centro de la tierra1
+comprar Viaje al centro de la tierra2
+comprar Viaje al centro de la tierra3
+comprar Viaje al centro de la tierra4
+comprar Viaje al centro de la tierra5
+comprar Viaje al centro de la tierra6
+comprar Viaje al centro de la tierra7
+comprar Viaje al centro de la tierra8
+comprar Viaje al centro de la tierra10
+comprar Viaje al centro de la tierra10
+comprar Viaje al centro de la tierra9
+estaLibro Viaje al centro de la tierra
+elimLibro Viaje al centro de la tierra
+estaLibro Viaje al centro de la tierra
+top10
