@@ -1,4 +1,4 @@
-# data-structures-eda
+# C++ Data Structures (EDA)
 
 ## About
 
@@ -9,7 +9,7 @@ The main purpose of the subject is to build data structures and algorithms with 
 The repository is divided by:
 
 - Introduction to data structures problems
-- Queues, stacks and double queues problems
-- Binary trees problems
-- Maps, sets and hash-maps problems
-- Data structures application problems, combining stacks, queues, binary trees, sets, maps, hash-maps and lists
+- **Queues**, **stacks** and **double queues** problems
+- **Binary trees** problems
+- **Maps**, **sets** and **hash-maps** problems
+- Data structures application problems, combining stacks, queues, binary trees, sets, maps, hash-maps and **lists**
